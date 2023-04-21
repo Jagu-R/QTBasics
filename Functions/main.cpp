@@ -32,6 +32,7 @@ getline (cin,nmefromMain);
 
 
   funcName(nmefromMain);
+  cout<<"Git OP";
 
 
     return 0;
